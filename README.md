@@ -1,18 +1,18 @@
-# SearchApp
+# Search App
 
 ## Descripción
 
-Código de la aplicación searchapp hecha en html, css, scss y javascript que utiliza la API de wikipedia.
+Código de la aplicación Search App hecha en html, css, scss y javascript que utiliza la API de wikipedia.
 
 ---
 
 ## Vista En Versión Desktop
 
-![Vista_En_Versión_Desktop](./assets/desktop-preview.jpg)
+![Vista_En_Versión_Desktop](./assets/design/desktop-design.jpg)
 
 ## Vista En Versión Mobile
 
-![Vista_En_Versión_Mobile](./assets/mobile-design.jpg)
+![Vista_En_Versión_Mobile](./assets/design/mobile-design.jpg)
 
 ---
 
